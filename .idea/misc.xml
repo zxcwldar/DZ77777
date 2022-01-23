@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/99670/AndroidStudioProjects/TodoManager06/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/99670/AndroidStudioProjects/TodoManager06/app/src/main/res/layout/fragment_create_task.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/99670/AndroidStudioProjects/TodoManager06/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/99670/AndroidStudioProjects/TodoManager06/app/src/main/res/layout/item_task.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/.gradle/caches/transforms-3/920eaa46180844a3cf565c83a5432654/transformed/jetified-dotsindicator-4.2/res/layout/dot_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/create_fragment_oval.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/dialog_rounded.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/ic_add.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/ic_arrow_down.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/ic_calendar.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/ic_zoom.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/rectangle_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/rectangle_background_create.xml" value="0.152" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/rectangle_button_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/rectangle_button_background2.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/drawable/rectangle_button_background_create.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/layout/fragment_blank.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/layout/fragment_board.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/layout/fragment_create_task.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/layout/fragment_main_board.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/layout/item_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager/app/src/main/res/layout/repeat_dialog.xml" value="0.176" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager666666/app/src/main/res/layout/activity_main.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager666666/app/src/main/res/layout/fragment_board.xml" value="0.176" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager666666/app/src/main/res/layout/fragment_create_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager666666/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager666666/app/src/main/res/layout/fragment_main_board.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/TodoManager666666/app/src/main/res/layout/item_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Notnik_kg/AndroidStudioProjects/TodoManager06/app/src/main/res/layout/fragment_board.xml" value="0.264" />
+        <entry key="..\:/Users/Notnik_kg/AndroidStudioProjects/TodoManager06/app/src/main/res/layout/fragment_main_board.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lesson3.4-master/app/src/main/res/layout/activity_main.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lesson3.4-master/app/src/main/res/layout/fragment_board.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lesson3.4-master/app/src/main/res/layout/fragment_create_task.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lesson3.4-master/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lesson3.4-master/app/src/main/res/layout/fragment_main_board.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lesson3.4-master/app/src/main/res/layout/item_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lesson3.4-master/app/src/main/res/layout/repeat_dialog.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
