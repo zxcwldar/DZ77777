@@ -39,7 +39,6 @@ public class MainBoardFragment extends Fragment  implements  ItemClickListener{
         super.onViewCreated(view, savedInstanceState);
         checkOnShow();
         getData();
-
     }
     private void checkOnShow() {
         SharedPreferences sharedPreferences = getActivity().getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
