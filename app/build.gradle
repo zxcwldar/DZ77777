@@ -1,5 +1,7 @@
 plugins {
     id 'com.android.application'
+    id 'com.google.gms.google-services'
+
 }
 
 android {
@@ -31,7 +33,6 @@ android {
 }
 
 dependencies {
-
     implementation 'androidx.appcompat:appcompat:1.4.0'
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
@@ -45,7 +46,7 @@ dependencies {
     implementation("androidx.navigation:navigation-fragment:2.3.5")
     implementation("androidx.navigation:navigation-ui:2.3.5")
     // DotsIndicator
-        implementation 'com.tbuonomo:dotsindicator:4.2'
+    implementation 'com.tbuonomo:dotsindicator:4.2'
 
 
     def room_version = "2.4.1"
@@ -54,4 +55,11 @@ dependencies {
     annotationProcessor "androidx.room:room-compiler:$room_version"
     implementation 'com.airbnb.android:lottie:4.2.2'
 
+    implementation platform('com.google.firebase:firebase-bom:29.0.4')
+
+    // Declare the dependency for the Firebase Authentication library
+    // When using the BoM, you don't specify versions in Firebase library dependencies
+    // Import the BoM for the Firebase platform
+    implementation platform('com.google.firebase:firebase-bom:29.0.4')
+    implementation 'com.google.firebase:firebase-auth'
 }
